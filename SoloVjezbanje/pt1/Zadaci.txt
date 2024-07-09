@@ -1,0 +1,32 @@
+Zadatak 5: Ispisivanje datoteka u direktorijumu
+Zadatak: Napišite skriptu koja će ispisati sve datoteke u trenutnom direktorijumu.
+
+Zadatak 6: Provera postojanja datoteke
+Zadatak: Napišite skriptu koja će proveriti da li datoteka postoji i da li je regularna datoteka.
+
+Zadatak 7: Brojanje redova u datoteci
+Zadatak: Napišite skriptu koja će brojati redove u datoteci koju korisnik unese.
+
+Zadatak 8: Kreiranje direktorijuma
+Zadatak: Napišite skriptu koja će kreirati novi direktorijum sa nazivom koji korisnik unese.
+
+Zadatak 9: Ispisivanje prvih 10 redova datoteke
+Zadatak: Napišite skriptu koja će ispisati prvih 10 redova datoteke koju korisnik unese.
+
+Zadatak 10: Računanje proseka brojeva u nizu
+Zadatak: Napišite skriptu koja generiše niz od 5 nasumičnih brojeva, ispisuje ih i zatim računa i ispisuje njihov prosek.
+
+Zadatak 11: Provera dozvola datoteke
+Zadatak: Napišite skriptu koja proverava da li datoteka ima dozvolu za čitanje, pisanje i izvršenje.
+
+Zadatak 12: Prikaz informacija o korisniku
+Zadatak: Napišite skriptu koja prikazuje informacije o trenutnom korisniku, uključujući korisničko ime, ID korisnika i domovski direktorijum.
+
+Zadatak 13: Brojanje fajlova u direktorijumu
+Zadatak: Napišite skriptu koja broji koliko datoteka postoji u određenom direktorijumu koji korisnik unese.
+
+Zadatak 14: Promena ekstenzije datoteka
+Zadatak: Napišite skriptu koja menja ekstenziju svih datoteka u trenutnom direktorijumu iz .txt u .bak.
+
+Zadatak 15: Ispisivanje reverznog stringa
+Zadatak: Napišite skriptu koja prima string od korisnika i ispisuje taj string u obrnutom redosledu.
